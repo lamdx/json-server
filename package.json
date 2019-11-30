@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mock": "json-server .\\demo\\db.json --routes .\\demo\\routes.json",
+    "moc": "json-server .\\doc\\db.json --routes .\\doc\\routes.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

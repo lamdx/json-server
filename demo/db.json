@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "fruits": [
+    {
+      "id": 1,
+      "name": "apple1",
+      "price": "44"
+    },
+    {
+      "id": 2,
+      "name": "apple2",
+      "price": "2"
+    },
+    {
+      "price": "6",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "apple4",
+      "price": "4"
+    },
+    {
+      "id": 6,
+      "name": "orange",
+      "price": "8.88"
+    },
+    {
+      "name": "water",
+      "price": "22",
+      "id": 7
+    },
+    {
+      "name": "water",
+      "price": "9.9",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": {
+        "username": "admin",
+        "nickname": "dachui"
+      },
+      "pwd": "123456"
+    }
+  ]
+}

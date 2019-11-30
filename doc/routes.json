@@ -1,0 +1,4 @@
+{
+  "/details\\?lid=:b": "/details/:b",
+  "/products\\?kws=:a":"/products?title_like=:a"
+}

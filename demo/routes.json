@@ -1,0 +1,3 @@
+{
+  "/fruits\\?fid=:a": "/fruits/:a"
+}
